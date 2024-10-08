@@ -1,7 +1,6 @@
-Here's a beautiful README template for your GitHub shell scripts repository:
+Sure! Here’s the README template formatted for easy copying:
 
----
-
+```markdown
 # 🚀 Shell Scripting Playground
 
 Welcome to my **Shell Scripting Playground**! 🎉 This repository is a collection of shell scripts that I’ve created while learning and exploring the power of shell scripting. It's designed to showcase useful scripts, share knowledge, and provide solutions to common problems.
@@ -61,10 +60,12 @@ If you want to use any of the scripts in this repository:
 
 Here's a breakdown of the scripts you'll find in this repo:
 
-| Script Name     | Description                                   | Usage                      |
-|-----------------|-----------------------------------------------|----------------------------|
-| `disk_monitor.sh` | Monitors disk usage and sends alerts via email | `./disk_monitor.sh`         |
-
+| Script Name        | Description                                   | Usage                      |
+|--------------------|-----------------------------------------------|----------------------------|
+| `disk_monitor.sh`  | Monitors disk usage and sends alerts via email | `./disk_monitor.sh`        |
+| `backup.sh`        | Automates backup of important files           | `./backup.sh /path/to/files`|
+| `system_info.sh`   | Displays detailed system information          | `./system_info.sh`         |
+| `cleanup.sh`       | Cleans up temporary files and logs            | `./cleanup.sh`             |
 
 Feel free to explore the code, suggest improvements, and share your thoughts!
 
@@ -96,5 +97,4 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 ---
 
 Happy Scripting! 😊
-
----
+```
