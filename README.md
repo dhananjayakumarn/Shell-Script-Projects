@@ -98,5 +98,3 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 Happy Scripting! 😊
 
 ---
-
-Feel free to replace **your-username** and **your-repo-name** with your actual GitHub details. You can also customize this template further to suit your style!
