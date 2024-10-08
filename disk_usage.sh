@@ -1,6 +1,8 @@
 #!/bin/bash
 
-# List of recipients separated by spaces (commas will be problematic)
+#Author: Dhananjaya Kumar N
+#Description: Simple Shell script to alert through email when disk usage is high
+
 EMAIL="dhananjayakumarn333@gmail.com elitesecure007@gmail.com"
 SUBJECT="Disk Usage Monitor"
 THRESHOLD=6
