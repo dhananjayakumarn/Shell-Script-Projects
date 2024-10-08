@@ -37,12 +37,12 @@ If you want to use any of the scripts in this repository:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/dhananjayakumarn/Shell-Script-Projects.git
    ```
    
 2. Navigate to the directory:
    ```bash
-   cd your-repo-name
+   cd Shell-Script-Projects
    ```
 
 3. Make the script executable:
@@ -64,9 +64,7 @@ Here's a breakdown of the scripts you'll find in this repo:
 | Script Name     | Description                                   | Usage                      |
 |-----------------|-----------------------------------------------|----------------------------|
 | `disk_monitor.sh` | Monitors disk usage and sends alerts via email | `./disk_monitor.sh`         |
-| `backup.sh`      | Automates backup of important files           | `./backup.sh /path/to/files`|
-| `system_info.sh` | Displays detailed system information          | `./system_info.sh`          |
-| `cleanup.sh`     | Cleans up temporary files and logs            | `./cleanup.sh`              |
+
 
 Feel free to explore the code, suggest improvements, and share your thoughts!
 
